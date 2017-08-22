@@ -1,0 +1,2 @@
+# Illumina
+for illumina fastq
